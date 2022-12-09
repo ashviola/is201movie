@@ -69,9 +69,10 @@
     left: 0px;
     right: 0px;
     bottom: 0px;
+    height: 40px;
     text-align: center;
     position: fixed;
-    color: black;
+    color: white;
 }
 
 .title{
